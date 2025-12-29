@@ -1,0 +1,17 @@
+h1
+{
+font-family: "Sofia", sans-serif;
+}
+div{font-family: "Sofia", sans-serif;
+border-radius: 15px;
+}
+b{font-family: "Sofia", sans-serif;
+}
+#image{
+border-radius: 5px 5px 0 0;
+border-radius: 10%;
+}
+#image:hover{
+box-shadow: 0 0 8px 16px;
+color: goldenrod;
+}
